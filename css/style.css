@@ -4,6 +4,7 @@ body {
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 150%;
     
 }
 
@@ -39,17 +40,18 @@ h2 {
 
 #bio-image {
     width: 200px;
-    margin-right: 10px;
+    height: 200px;
+    margin-right: 20px;
 }
 
 #main-bio {
     width: 70%;
-    /* margin: 20px; */
+   
 }
 
 #contact-info {
     width: 30%;
-    /* line-height: 1.5; */
+ 
 
 }
 
